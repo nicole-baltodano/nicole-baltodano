@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicole Baltodano</h1>
-<h3 align="center">A passionate Data Scientist with a background in materials science</h3>
+<h3 align="center">A passionate Data Scientist with a background in Materials Science</h3>
 
 - 🌱 I’m currently learning **AWS, AutoML**
 
