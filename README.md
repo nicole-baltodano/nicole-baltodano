@@ -51,5 +51,5 @@
 ---
 
 <h2 align="left">💡 Fun Fact</h2>
-<p align="left">I love exploring the intersection of data science and sustainability while continuously learning and sharing knowledge!</p>
+<p align="left">I’m a total chocolate binger 🍫—it’s my go-to fuel for coding sessions!</p>
 
