@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Scientist with a Background in Materials Science</h3>
 
 <p align="center">
-  🌱 Currently working on <strong>The Behavioral Risk Factor Surveillance System (BRFSS) dataset</strong> and <strong>AutoML</strong><br>
+  🌱 Currently working on <strong>The Behavioral Risk Factor Surveillance System (BRFSS) dataset</strong> 
   📫 Reach me at: <a href="mailto:nicolbaltodano@hotmail.com">nicolbaltodano@hotmail.com</a>
 </p>
 
